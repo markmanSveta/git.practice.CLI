@@ -10,4 +10,17 @@ The clock struck two.
 The snake went down.
 Hickory dickory dock.
 Tick tock. Tick tock. Tick tock. Tick tock.
-
+A squirrel.
+Hickory dickory dock.
+The squirrel went up the clock.
+The clock struck three.
+The squirrel went down.
+Hickory dickory dock.
+Tick tock. Tick tock. Tick tock. Tick tock.
+A cat.
+Hickory dickory dock.
+The cat went up the clock.
+The clock struck four.
+The cat went down.
+Hickory dickory dock.
+Tick tock. Tick tock. Tick tock. Tick tock.
